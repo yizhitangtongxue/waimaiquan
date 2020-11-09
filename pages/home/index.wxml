@@ -1,0 +1,37 @@
+<view class="container">
+  <l-card type="cover"
+            l-class="card"
+            catchtap="navToElmWaiMai"
+            image="/images/eleme/waimai.jpg"
+            title="吃喝玩乐购，每天最高可领取31元红包">
+    </l-card>
+
+    <l-card type="cover" 
+            l-class="card"
+            catchtap="navToElmShangChao"
+            image="/images/eleme/shangchao.jpg"
+            title="在家用饿了么逛超市，生鲜30分钟到家">
+    </l-card>
+
+    <l-card type="cover" 
+            l-class="card"
+            catchtap="navToMtWaiMai"
+            image="/images/meituan/waimai.jpg"
+            title="最高56元红包等你来拿">
+    </l-card>
+
+    <l-card type="cover" 
+            l-class="card"
+            catchtap="navToMtShangChao"
+            image="/images/meituan/shangchao.jpg"
+            title="商超生鲜百万补贴来袭！商超百货应有尽有">
+    </l-card>
+
+    <l-card type="cover" 
+            l-class="card"
+            catchtap="navToMtYouhuiquan"
+            image="/images/meituan/youhuiquan.jpg"
+            title="吃喝玩乐前搜一搜，海量门店都能领优惠">
+    </l-card>
+
+</view>

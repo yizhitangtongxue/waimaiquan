@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/home/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "外卖券",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#f3f3f3"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
