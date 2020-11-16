@@ -97,5 +97,12 @@ Page({
    */
   onShareAppMessage: function () {
 
+  },
+
+  onShareTimeline() {
+    return {
+      title:'快来领取饿了么美团商超红包券啦!!!',
+      query:'/pages/home/index',
+    }
   }
 })
